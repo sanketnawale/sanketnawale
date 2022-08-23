@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanketnawale
-- 👀 I’m interested in learning cde
+- 💻 I’m a Z Mainframer.
 - 🌱 I’m currently learning Internet
 - 💞️ I’m looking to collaborate for learing predication methods with AI 
 - 📫 How to reach me .. mail on sanketnawale1206@gmail.com
