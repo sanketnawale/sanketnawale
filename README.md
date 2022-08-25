@@ -2,7 +2,6 @@
 - 💻 I’m a Z Mainframer.
 - 🌱 I’m An IBM Nerd Loves to Learn IBM Technology.
 - 💞️ I’m looking to collaborate for learing predication methods with AI .   
-<div align="left"><img src="/cobol-programming-with-vscode.png" alt="cobol-programming-with-vscode.png" width="8%;"/>
 - 📫 How to reach me .. mail on sanketnawale1206@gmail.com
 
 ## THIS ARE MY IBM BADGES: IBM XPLORE 2021
