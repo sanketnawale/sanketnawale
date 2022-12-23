@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanketnawale
 - 💻 I’m a Z Mainframer.
-- 🌱 I’m An IBM Nerd Loves to Learn IBM Technology.
+- 🌱 I’m An IBMmeer Loves to Learn IBM Technology.
 - 💞️ I’m looking to collaborate for learing predication methods with AI .   
 - 📫 How to reach me .. mail on sanketnawale1206@gmail.com
 
